@@ -19,3 +19,5 @@ Here are some ideas to get you started:
 
   [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/vaidik-g-08b679102/)](https://www.linkedin.com/in/madhav-pandey/) 
   
+  
+ ![visitors](https://visitor-badge.glitch.me/badge?page_id=madhavpandey33.visitor)
